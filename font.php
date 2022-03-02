@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: "MyFont1";
-        src: url("itim-regular.otf");
+        src: url("AnyConv.com_Itim Regular.ttf");
       }
       @font-face{
         font-family: "MyFont2";
