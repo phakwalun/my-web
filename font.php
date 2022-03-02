@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: "MyFont2";
-        src: url("MNN_Tuaklom.zip");
+        src: url("MiPancake.zip");
       }
       #font1{
         font-family: "MyFont1";
